@@ -1,28 +1,12 @@
 {
   "shows": {
-    "PVHR|40222|20260807|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "12:45 PM",
-      "date": "20260807",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVHR|40222|20260807|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "12:45 PM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
     "PVHR|40220|20260807|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "04:00 PM",
       "date": "20260807",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|40220|20260807|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -118,7 +102,7 @@
       "date": "20260807",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|42895|20260807|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -208,22 +192,6 @@
       "price": "66.74",
       "status": "0"
     },
-    "PVES|32389|20260807|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:20 PM",
-      "date": "20260807",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PVES|32389|20260807|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:20 PM",
-      "date": "20260807",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
     "PVHC|30831|20260807|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "11:10 PM",
@@ -239,22 +207,6 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
-    },
-    "PABC|20716|20260807|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "12:20 PM",
-      "date": "20260807",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20716|20260807|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "12:20 PM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
     }
   },
   "dates": {
