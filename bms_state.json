@@ -1,53 +1,5 @@
 {
   "shows": {
-    "PVHR|40221|20260807|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260807",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PVHR|40221|20260807|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PVPZ|36422|20260807|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "10:30 PM",
-      "date": "20260807",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVPZ|36422|20260807|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "10:30 PM",
-      "date": "20260807",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
-    "PGRA|21655|20260807|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "10:45 PM",
-      "date": "20260807",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PGRA|21655|20260807|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "10:45 PM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
     "PSKL|22280|20260807|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "10:50 PM",
