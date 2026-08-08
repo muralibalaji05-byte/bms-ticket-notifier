@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVHR|40318|20260808|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVHR|40318|20260808|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
     "PVHR|40268|20260808|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "07:05 PM",
@@ -48,22 +32,6 @@
       "price": "61.74",
       "status": "3"
     },
-    "PCAN|42916|20260808|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PCAN|42916|20260808|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "1"
-    },
     "PCAN|42790|20260808|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "07:30 PM",
@@ -80,29 +48,13 @@
       "price": "66.74",
       "status": "0"
     },
-    "PVPZ|36425|20260808|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVPZ|36425|20260808|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
     "PVPZ|36387|20260808|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "07:05 PM",
       "date": "20260808",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|36387|20260808|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -110,7 +62,7 @@
       "date": "20260808",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|36426|20260808|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -126,22 +78,22 @@
       "date": "20260808",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
-    "PGRA|21628|20260808|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:50 PM",
+    "PSKL|22321|20260808|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "10:50 PM",
       "date": "20260808",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "2"
     },
-    "PGRA|21628|20260808|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:50 PM",
+    "PSKL|22321|20260808|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "10:50 PM",
       "date": "20260808",
       "cat": "CLASSIC",
-      "price": "61.74",
+      "price": "66.74",
       "status": "0"
     },
     "PGRA|21657|20260808|PRIME": {
@@ -158,38 +110,6 @@
       "date": "20260808",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "0"
-    },
-    "PSKL|22319|20260808|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PSKL|22319|20260808|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "04:00 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "66.74",
-      "status": "0"
-    },
-    "PSKL|22321|20260808|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "10:50 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PSKL|22321|20260808|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "10:50 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "66.74",
       "status": "0"
     },
     "PVHC|30836|20260808|PRIME": {
@@ -215,7 +135,7 @@
     "20260810": "AVAILABLE",
     "20260811": "AVAILABLE",
     "20260812": "AVAILABLE",
-    "20260813": "NOT_OPEN",
+    "20260813": "AVAILABLE",
     "20260814": "NOT_OPEN"
   }
 }
