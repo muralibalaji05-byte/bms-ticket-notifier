@@ -54,7 +54,7 @@
       "date": "20260808",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PVPZ|36387|20260808|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -78,7 +78,7 @@
       "date": "20260808",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
     },
     "PSKL|22321|20260808|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -94,7 +94,7 @@
       "date": "20260808",
       "cat": "CLASSIC",
       "price": "66.74",
-      "status": "0"
+      "status": "3"
     },
     "PGRA|21657|20260808|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
