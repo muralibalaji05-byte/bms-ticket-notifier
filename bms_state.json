@@ -208,22 +208,6 @@
       "price": "61.74",
       "status": "2"
     },
-    "PGRA|21674|20260810|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:55 PM",
-      "date": "20260810",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGRA|21674|20260810|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:55 PM",
-      "date": "20260810",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
     "PVES|32502|20260810|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "12:20 PM",
@@ -255,6 +239,22 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "1"
+    },
+    "PGRA|21674|20260810|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:55 PM",
+      "date": "20260810",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21674|20260810|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:55 PM",
+      "date": "20260810",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
     }
   },
   "dates": {
