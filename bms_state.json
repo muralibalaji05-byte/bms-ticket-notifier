@@ -70,7 +70,7 @@
       "date": "20260811",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "2"
+      "status": "3"
     },
     "PVPZ|36516|20260811|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -86,7 +86,7 @@
       "date": "20260811",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "2"
+      "status": "3"
     },
     "PVPZ|36517|20260811|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -109,22 +109,6 @@
       "time": "10:05 PM",
       "date": "20260811",
       "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PCAN|43008|20260811|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "12:45 PM",
-      "date": "20260811",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PCAN|43008|20260811|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "12:45 PM",
-      "date": "20260811",
-      "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
     },
@@ -207,38 +191,6 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "2"
-    },
-    "PVES|32555|20260811|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:20 PM",
-      "date": "20260811",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVES|32555|20260811|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:20 PM",
-      "date": "20260811",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PABC|20844|20260811|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "12:20 PM",
-      "date": "20260811",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20844|20260811|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "12:20 PM",
-      "date": "20260811",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
     },
     "PGRA|21707|20260811|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
