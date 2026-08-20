@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVPZ|36928|20260820|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:45 PM",
-      "date": "20260820",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVPZ|36928|20260820|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:45 PM",
-      "date": "20260820",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
     "PVES|32925|20260820|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "01:05 PM",
@@ -35,9 +19,9 @@
   },
   "dates": {
     "20260820": "BOOKABLE",
-    "20260821": "NOT_OPEN",
-    "20260822": "NOT_OPEN",
-    "20260823": "NOT_OPEN",
+    "20260821": "AVAILABLE",
+    "20260822": "AVAILABLE",
+    "20260823": "AVAILABLE",
     "20260824": "NOT_OPEN",
     "20260825": "NOT_OPEN",
     "20260826": "NOT_OPEN"
